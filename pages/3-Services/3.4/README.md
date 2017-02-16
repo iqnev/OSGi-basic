@@ -1,0 +1,3 @@
+# Getting Service properties
+
+***
